@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.503d8c9e.chunk.css",
+    "main.js": "/static/js/main.f919caed.chunk.js",
+    "main.js.map": "/static/js/main.f919caed.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a919462b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a919462b.js.map",
+    "static/css/2.305790f0.chunk.css": "/static/css/2.305790f0.chunk.css",
+    "static/js/2.8ae8e750.chunk.js": "/static/js/2.8ae8e750.chunk.js",
+    "static/js/2.8ae8e750.chunk.js.map": "/static/js/2.8ae8e750.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ca09fef979de15c11953b8449c88277c.js": "/precache-manifest.ca09fef979de15c11953b8449c88277c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.305790f0.chunk.css.map": "/static/css/2.305790f0.chunk.css.map",
+    "static/css/main.503d8c9e.chunk.css.map": "/static/css/main.503d8c9e.chunk.css.map",
+    "static/js/2.8ae8e750.chunk.js.LICENSE.txt": "/static/js/2.8ae8e750.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/boxed-bg.7799dece.jpg",
+    "static/media/main.scss": "/static/media/color-wheel.b9de27c7.png",
+    "static/media/bootstrap.css": "/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a919462b.js",
+    "static/css/2.305790f0.chunk.css",
+    "static/js/2.8ae8e750.chunk.js",
+    "static/css/main.503d8c9e.chunk.css",
+    "static/js/main.f919caed.chunk.js"
+  ]
+}
